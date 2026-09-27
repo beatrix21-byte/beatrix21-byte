@@ -1,5 +1,8 @@
-## Hi there 👋
-
+# ¡Hola! Me llamo Beatrice👋
+##Estudiante de Desarrollo de Aplicaciones Web (DAW)
+###Tecnica en Integración Social (TISOC)
+---
+>  "Nunca subestimes el poder de tus sueños y la fuerza de tu voluntad para hacerlos realidad."--Oprah Winfrey
 <!--
 **beatrix21-byte/beatrix21-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
